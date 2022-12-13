@@ -15,11 +15,7 @@
     </p>
     
 
-**Open an Example RSI Semantic Segmentation on Colab**
-
-<img src="https://colab.research.google.com/assets/colab-badge.svg">
-
-`Open an Example RSI Semantic Segmentation on Colab <https://githubtocolab.com/mberkay0/RSI_segmentation_models/blob/master/examples/RSI_semantic_segmentation.ipynb>`__.)
+`Open an Example RSI Semantic Segmentation on Colab <https://githubtocolab.com/mberkay0/RSI_segmentation_models/blob/master/examples/RSI_semantic_segmentation.ipynb>`__.
 
 
 

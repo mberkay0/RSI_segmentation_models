@@ -13,6 +13,10 @@
       <a href="https://travis-ci.com/qubvel/segmentation_models" alt="Build Status">
         <img src="https://travis-ci.com/qubvel/segmentation_models.svg?branch=master" /></a>
     </p>
+    
+
+## Open an Example RSI Semantic Segmentation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/RSI_segmentation_models/blob/master/examples/RSI_semantic_segmentation.ipynb)
 
 
 **The main features** of this library are:

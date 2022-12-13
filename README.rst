@@ -16,6 +16,8 @@
     
 
 **Open an Example RSI Semantic Segmentation**
+
+
 .. raw:: html
 
 <p align="center">

@@ -22,18 +22,22 @@
 **Some Results** 
 
 **Unet**
+
 .. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result1_unet.png
 .. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result2_unet.png
 
 **LinkNet**
+
 .. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result1_linknet.png
 .. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result2_linknet.png
 
 **PSPNet**
+
 .. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result1_pspnet.png
 .. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result2_pspnet.png
 
 **AVG. IoU Scores**
+
 .. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/avgIoU.png
 
 

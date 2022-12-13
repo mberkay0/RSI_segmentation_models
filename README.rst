@@ -27,23 +27,6 @@
 .. |iou| image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/avgIoU.png
 
 
-============================
-            Unet
-============= ==============
-|unet_result_one|  |unet_result_two|
-============= ==============
-
-============================
-            LinkNet
-============= ==============
-|linknet_result_one|   |linknet_result_two|
-============= ==============
-
-============================
-            PSPNet
-============= ==============
-|pspnet_result_one|   |pspnet_result_two|
-============= ==============
 
 
 **The main features** of this library are:

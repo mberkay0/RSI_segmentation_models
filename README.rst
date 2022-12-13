@@ -17,7 +17,8 @@
 
 `Open an Example RSI Semantic Segmentation on Colab <https://githubtocolab.com/mberkay0/RSI_segmentation_models/blob/master/examples/RSI_semantic_segmentation.ipynb>`__
 
-.. |Unet Result| image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result1_unet.png
+
+.. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result1_unet.png
 
 
 

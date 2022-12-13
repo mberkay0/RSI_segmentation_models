@@ -1,4 +1,4 @@
-.. raw:: html
+
 
     <p align="center">
       <img src="https://i.ibb.co/GtxGS8m/Segmentation-Models-V1-Side-3-1.png">
@@ -17,7 +17,6 @@
 
 **Open an Example RSI Semantic Segmentation**
 
-.. raw:: html
 <a href="https://githubtocolab.com/mberkay0/RSI_segmentation_models/blob/master/examples/RSI_semantic_segmentation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 

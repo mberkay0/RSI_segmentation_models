@@ -18,32 +18,16 @@
 `Open an Example RSI Semantic Segmentation on Colab <https://githubtocolab.com/mberkay0/RSI_segmentation_models/blob/master/examples/RSI_semantic_segmentation.ipynb>`__
 
 
-.. |unet_result_one| image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result1_unet.png
-.. |unet_result_two| image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result2_unet.png
-.. |linknet_result_one| image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result1_linknet.png
-.. |linknet_result_two| image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result2_linknet.png
-.. |pspnet_result_one| image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result1_pspnet.png
-.. |pspnet_result_two| image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result2_pspnet.png
-.. |iou| image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/avgIoU.png
+.. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result1_unet.png
+.. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result2_unet.png
 
+.. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result1_linknet.png
+.. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result2_linknet.png
 
-============= ==============
-    s                s
-============= ==============
-|unet_result_one|  |unet_result_two|
-============= ==============
+.. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result1_pspnet.png
+.. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/result2_pspnet.png
 
-============= ==============
-    s               s
-============= ==============
-|linknet_result_one|   |linknet_result_two|
-============= ==============
-
-============= ==============
-   s                s
-============= ==============
-|pspnet_result_one|   |pspnet_result_two|
-============= ==============
+.. image:: https://github.com/mberkay0/RSI_segmentation_models/blob/master/images/avgIoU.png
 
 
 **The main features** of this library are:

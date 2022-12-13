@@ -15,9 +15,10 @@
     </p>
     
 
-## Open an Example RSI Semantic Segmentation
+**Open an Example RSI Semantic Segmentation**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/RSI_segmentation_models/blob/master/examples/RSI_semantic_segmentation.ipynb)
+<a href="https://githubtocolab.com/mberkay0/RSI_segmentation_models/blob/master/examples/RSI_semantic_segmentation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+
 
 
 **The main features** of this library are:

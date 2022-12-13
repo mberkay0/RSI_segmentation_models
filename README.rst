@@ -1,5 +1,4 @@
-
-
+.. raw:: html
     <p align="center">
       <img src="https://i.ibb.co/GtxGS8m/Segmentation-Models-V1-Side-3-1.png">
       <b>Python library with Neural Networks for Image Segmentation based on <a href=https://www.keras.io>Keras</a> and <a href=https://www.tensorflow.org>TensorFlow</a>.
@@ -15,9 +14,9 @@
     </p>
     
 
-**Open an Example RSI Semantic Segmentation**
+**Open an Example RSI Semantic Segmentation** <a href="https://githubtocolab.com/mberkay0/RSI_segmentation_models/blob/master/examples/RSI_semantic_segmentation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
-<a href="https://githubtocolab.com/mberkay0/RSI_segmentation_models/blob/master/examples/RSI_semantic_segmentation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+
 
 
 
